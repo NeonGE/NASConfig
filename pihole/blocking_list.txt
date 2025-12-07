@@ -1,0 +1,13 @@
+# Title: SamPrince/hosts
+#
+# This is my personal list of blocked domains
+#
+# Most of this had beed added since I haven't found something
+# specific for Mexico
+#
+# Date: 06 December 2025 20:47:29 (UTC)
+# ===============================================================
+
+# Custom host records are listed here.
+#=====================================
+0.0.0.0 caliente.mx
