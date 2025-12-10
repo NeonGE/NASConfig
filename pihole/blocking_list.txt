@@ -10,4 +10,6 @@
 
 # Custom host records are listed here.
 #=====================================
-0.0.0.0 caliente.mx
+0.0.0.0 *.caliente.mx
+0.0.0.0 *.novibet.mx
+0.0.0.0 *.omg.adult
