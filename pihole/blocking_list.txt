@@ -11,5 +11,8 @@
 # Custom host records are listed here.
 #=====================================
 caliente.mx
+www.caliente.mx
 novibet.mx
+www.novibet.mx
 omg.adult
+www.omg.adult
