@@ -1,0 +1,8 @@
+# Nunca subir los .env reales: solo las versiones .env.example ya limpias
+*.env
+!*.env.example
+
+# Datos de apps que podrían caer dentro de la carpeta de Compose
+**/var_lib/
+**/data/
+**/config/
